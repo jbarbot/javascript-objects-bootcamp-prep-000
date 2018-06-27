@@ -7,12 +7,11 @@ var playlist = {
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist['Goo Goo Dolls'] = 'Song Name0'
   playlist['Billy Joel'] = 'Song Name1';
-  playlist['Elton John'] = 'Song Name2';
   return playlist
 }
 
 function removeFromPlaylist(playlist, artistname) {
-  delete playlist['My Bloody Valentine']
-  delete playlist['Phil Ochs']
+  delete playlist['Billy Joel']
+  delete playlist['']
   return playlist
 }
