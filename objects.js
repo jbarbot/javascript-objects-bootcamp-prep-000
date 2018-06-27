@@ -4,7 +4,9 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist['Goo Goo Dolls'] = 'Black Balloon'
+  playlist['My Bloody Valentine'] = 'Black Balloon'
+  playlist['Phil Ochs'] = 'Song Name1';
+  playlist['Slowdive'] = 'Not sure what they sing';
 }
 
 function removeFromPlaylist(playlist, artistname) {
