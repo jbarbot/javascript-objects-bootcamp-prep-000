@@ -10,11 +10,6 @@ function updatePlaylist(playlist, artistName, songTitle) {
 }
 
 function removeFromPlaylist(playlist, artistname) {
-  delete playlist[
-  'Billy Joel', 
-  'Elton John', 
-  'My Bloody Valentine', 
-  'Phil Ochs'
-  ]
+  delete playlist['Billy Joel', 'Elton John', 'My Bloody Valentine']
   return playlist
 }
