@@ -13,5 +13,6 @@ function removeFromPlaylist(playlist, artistname) {
   delete playlist['Slowdive']
   delete playlist['Phil Ochs']
   delete playlist['My Bloody Valentine']
+  delete playlist['Billy Joel']
   return playlist
 }
