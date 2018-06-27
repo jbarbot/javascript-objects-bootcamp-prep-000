@@ -13,5 +13,6 @@ function updatePlaylist(playlist, artistName, songTitle) {
 
 function removeFromPlaylist(playlist, artistname) {
   delete playlist['My Bloody Valentine']
+  delete playlist['Phil Ochs']
   return playlist
 }
