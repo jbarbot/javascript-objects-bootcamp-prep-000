@@ -1,6 +1,7 @@
 var playlist = {
-  'Billy Joel': 'River of Dreams',
-  'Elton John': 'Benny and the Jets'
+  'My Bloody Valentine': 'Song1'
+  'Phil Ochs': 'Song2'
+  'Slowdive': 'Song3'
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
