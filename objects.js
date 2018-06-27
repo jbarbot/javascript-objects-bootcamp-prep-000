@@ -1,6 +1,6 @@
 var playlist = {
-  'My Bloody Valentine': 'Song1'
-  'Phil Ochs': 'Song2'
+  'My Bloody Valentine': 'Song1',
+  'Phil Ochs': 'Song2',
   'Slowdive': 'Song3'
 }
 
