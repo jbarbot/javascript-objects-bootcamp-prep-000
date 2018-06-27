@@ -16,4 +16,5 @@ function removeFromPlaylist(playlist, artistname) {
   'My Bloody Valentine', 
   'Phil Ochs'
   ]
+  return playlist
 }
